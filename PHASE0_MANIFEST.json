@@ -1,0 +1,30 @@
+{
+  "project": "AgentShield",
+  "official_title": "AgentShield: A Machine Learning\u2013Driven Security and Reliability Framework for Tool-Using AI Agents",
+  "phase": "Phase 0",
+  "scenario_count": 11,
+  "scenario_ids": [
+    "BENIGN-001",
+    "BENIGN-002",
+    "BENIGN-003",
+    "ATTACK-001",
+    "ATTACK-002",
+    "ATTACK-003",
+    "ATTACK-004",
+    "ATTACK-005",
+    "ATTACK-006",
+    "ATTACK-007",
+    "BENIGN-004"
+  ],
+  "documents": [
+    "CLAUDE_REVIEW_PROMPT.md",
+    "README.md",
+    "data/scenarios/SCENARIO_TEMPLATE.json",
+    "data/scenarios/phase0_scenarios.jsonl",
+    "docs/DEVELOPMENT_RULES.md",
+    "docs/EXPERIMENT_PROTOCOL.md",
+    "docs/PROJECT_REQUIREMENTS.md",
+    "docs/SCENARIO_SPECIFICATION.md",
+    "docs/THREAT_MODEL.md"
+  ]
+}
